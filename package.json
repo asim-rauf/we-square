@@ -1,0 +1,10 @@
+{
+	"name": "we-square",
+	"version": "1.0.9",
+	"description": "Can double the number given!",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"files": [
+		"/dist"
+	]
+}
