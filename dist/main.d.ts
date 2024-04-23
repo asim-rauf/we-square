@@ -1,1 +1,0 @@
-export { getSquareOfNumber } from './double';
